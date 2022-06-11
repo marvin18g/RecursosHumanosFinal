@@ -1076,7 +1076,7 @@ header .circle {
 .contact:before {
   top: 0;
   height: 40%;
-  background: url("../img/map.png") center center / cover;
+  background: url("img/map.png") center center / cover;
   background-image: url(img/vecteezy_sunset-lake-landscape-illustration_.jpg);
 }
 .este{
